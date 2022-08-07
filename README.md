@@ -5,7 +5,11 @@
 - A passionate Software Engineer and Web developer
 - 🔭 I’m currently working on Projects with **Javascript**
 - 🌱 I’m currently learning **Python and React**
+- 
+- 
+- 
 - 👯 I’m looking to collaborate and contribute to Real world Projects
+- 
 - 📫 How to reach me: **emma.amba@gmail.com**
 - ⚡ Fun fact **I am a student of the ALX Software Engineering Programme**
 
