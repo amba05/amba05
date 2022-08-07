@@ -26,6 +26,11 @@
 <code><img height="30" src="https://github.com/github/explore/blob/main/topics/c/c.png"></code>
 
 
+
+| <a href="https://github.com/amba05/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=amba05&show_icons=true&include_all_commits=true&theme=dark&count_private=true&hide_border=true&border_radius=2&hide=stars" alt="Amba's github stats" /></a> | <a href="https://github.com/amba05/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amba05&layout=compact&theme=dark&hide_border=true&hide=html,css" /></a> |
+| ------------- | ------------- |
+
+
 <!--
 **amba05/amba05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
