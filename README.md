@@ -1,5 +1,4 @@
-### Hi there 👋
-<h1 align="center">Hi 👋, I'm Tolulope Fakunle</h1>
+<h1 align="center">Hi 👋, I'm Amba</h1>
 
 - 🔭 I’m currently working on **Projects with Javascript**
 - 🌱 I’m currently learning **Python and React**
