@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Amba</h1>
-<img align= "right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/320984a9ca58b3c73274c9259ecf6de8.gif">
+<img align= "right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/fcf7fd0c619bb87706533079240915f3.gif">
 
 - 🔭 I’m currently working on **Projects with Javascript**
 - 🌱 I’m currently learning **Python and React**
