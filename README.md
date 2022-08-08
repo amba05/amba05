@@ -1,8 +1,10 @@
+ 
+ ![MasterHead](https://blog.bit.ai/wp-content/uploads/2022/07/How-to-Create-Impressive-Design-Documents-banner.jpg)
+
 <img src="/github-header-image.png" width="5000px" alt="introductory banner for Emmanuel">
 <h1 align="center">Hi 👋, I am Emmanuel. </h1>
 <p align="center">A passionate Software Engineer and Web developer</p>
  
-![MasterHead](https://blog.bit.ai/wp-content/uploads/2022/07/How-to-Create-Impressive-Design-Documents-banner.jpg)
 
 
 - 🔭 I am currently working on Projects with **Javascript**
