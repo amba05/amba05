@@ -2,10 +2,10 @@
  ![MasterHead](https://blog.bit.ai/wp-content/uploads/2022/07/How-to-Create-Impressive-Design-Documents-banner.jpg)
 
 <h1 align="center">Hi 👋, I am Emmanuel. </h1>
-<p align="center">A passionate Software Engineer and Web developer</p> 
 
 <img align= "right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/320984a9ca58b3c73274c9259ecf6de8.gif">
 
+A passionate Software Engineer and Web developer
 
 - 🔭 I am currently working on Projects with **Javascript**
 
