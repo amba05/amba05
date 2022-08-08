@@ -1,4 +1,4 @@
-<img src="/github-header-image.png" width="500px" alt="introductory banner for Emmanuel">
+<img src="/github-header-image.png" width="5000px" alt="introductory banner for Emmanuel">
 <h1 align="center">Hi 👋, I am Emmanuel. </h1>
 <p align="center">A passionate Software Engineer and Web developer</p>
  
