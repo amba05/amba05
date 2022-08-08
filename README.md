@@ -1,4 +1,4 @@
-<img src="/assets/Profile Header-v2.jpg" alt="introductory banner for Emmanuel">
+<img src="/github-header-image.png" alt="introductory banner for Emmanuel">
 <h1 align="center">Hi 👋, I am Emmanuel. </h1>
 <p align="center">A passionate Software Engineer and Web developer</p>
  
